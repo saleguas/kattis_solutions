@@ -16,9 +16,11 @@ You may have noticed that there is multiple solutions for some problems, but tha
 #### **Contriuters:**
 [saleguas](https://github.com/saleguas) - Main Developer
 
+[Adamkadaban](https://github.com/Adamkadaban) - Assistant Developer
+
 [WillBillNye](https://github.com/WillBillNye) - Assistant Developer
 
-[Adamkadaban](https://github.com/Adamkadaban) - Assistant Developer
+
 
 
 
